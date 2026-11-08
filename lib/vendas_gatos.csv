@@ -1,0 +1,1001 @@
+id_venda;raca;porte;pedigree;quantidade;preco_unitario;canal_venda;forma_pagamento;estado_uf
+1;Persa;Medio;Sim;3;2313.34;Site;Cartao de Credito;RJ
+2;Persa;Medio;Sim;4;2897.06;Site;Cartao de Credito;SP
+3;Maine Coon;Grande;Sim;2;5174.43;Site;Boleto;PR
+4;Maine Coon;Grande;Sim;1;6311.81;Loja Fisica;Boleto;BA
+5;Siames;Medio;Nao;1;757.73;Site;PIX;SP
+6;Siames;Medio;Nao;2;663.12;Loja Fisica;Cartao de Credito;BA
+7;British Shorthair;Medio;Sim;4;4397.98;Loja Fisica;Cartao de Credito;SC
+8;Munchkin;Pequeno;Sim;4;3768.92;Instagram;Boleto;CE
+9;British Shorthair;Medio;Sim;3;4018.82;Instagram;Boleto;BA
+10;Exotico;Medio;Sim;5;3438.35;Instagram;Boleto;PE
+11;Munchkin;Pequeno;Sim;4;3986.88;Loja Fisica;Boleto;MG
+12;Scottish Fold;Medio;Sim;1;5661.83;Instagram;Cartao de Credito;MG
+13;Sphynx;Medio;Sim;3;6108.41;Loja Fisica;Boleto;PE
+14;Ragdoll;Grande;Sim;5;4890.23;Loja Fisica;PIX;DF
+15;Siames;Medio;Nao;3;606.41;Site;PIX;BA
+16;Munchkin;Pequeno;Sim;5;4440.76;Loja Fisica;Boleto;RS
+17;Siberiano;Grande;Sim;2;3653.0;Loja Fisica;PIX;CE
+18;Siberiano;Grande;Sim;4;3901.98;Loja Fisica;PIX;MG
+19;Siberiano;Grande;Sim;2;3025.21;Site;Boleto;RS
+20;Ragdoll;Grande;Sim;4;3800.5;Instagram;PIX;CE
+21;Sphynx;Medio;Sim;1;5165.81;Loja Fisica;Boleto;BA
+22;Siames;Medio;Nao;5;947.1;Site;PIX;SC
+23;Bengal;Medio;Sim;4;3259.46;Instagram;Cartao de Credito;BA
+24;Sphynx;Medio;Sim;1;6278.26;Loja Fisica;Cartao de Credito;RJ
+25;Scottish Fold;Medio;Sim;2;4795.38;Loja Fisica;Boleto;RJ
+26;Exotico;Medio;Sim;1;3558.06;Site;Boleto;RS
+27;Maine Coon;Grande;Sim;3;6052.27;Site;Cartao de Credito;MG
+28;Munchkin;Pequeno;Sim;3;4172.23;Instagram;PIX;DF
+29;Ragdoll;Grande;Sim;4;3886.88;Loja Fisica;Cartao de Credito;SP
+30;Sphynx;Medio;Sim;4;6742.15;Instagram;Boleto;PE
+31;Bengal;Medio;Sim;4;4624.0;Loja Fisica;PIX;CE
+32;Sphynx;Medio;Sim;5;6029.44;Loja Fisica;Cartao de Credito;CE
+33;Siames;Medio;Nao;5;963.16;Loja Fisica;Boleto;SC
+34;Siames;Medio;Nao;3;1064.91;Loja Fisica;PIX;SC
+35;Bengal;Medio;Sim;4;3277.44;Instagram;PIX;PR
+36;Munchkin;Pequeno;Sim;2;4485.55;Loja Fisica;PIX;RS
+37;British Shorthair;Medio;Sim;2;4127.65;Site;PIX;SC
+38;Munchkin;Pequeno;Sim;5;3673.51;Instagram;PIX;PE
+39;Siberiano;Grande;Sim;4;3932.35;Site;Boleto;DF
+40;Siberiano;Grande;Sim;3;3474.98;Loja Fisica;Boleto;MG
+41;British Shorthair;Medio;Sim;1;5347.4;Instagram;Boleto;PE
+42;Sphynx;Medio;Sim;5;5244.63;Loja Fisica;Cartao de Credito;PE
+43;Sphynx;Medio;Sim;4;5631.01;Loja Fisica;Cartao de Credito;SC
+44;Angora;Medio;Nao;2;1392.29;Loja Fisica;Cartao de Credito;SP
+45;Ragdoll;Grande;Sim;4;4500.66;Loja Fisica;Boleto;BA
+46;Sphynx;Medio;Sim;1;6843.37;Loja Fisica;Cartao de Credito;CE
+47;British Shorthair;Medio;Sim;3;4082.37;Site;PIX;DF
+48;Ragdoll;Grande;Sim;3;3950.45;Instagram;Boleto;SC
+49;SRD (Vira-lata);Medio;Nao;4;89.89;Site;Boleto;DF
+50;Sphynx;Medio;Sim;2;6897.58;Site;Boleto;DF
+51;Bengal;Medio;Sim;3;4918.74;Loja Fisica;PIX;SP
+52;Ragdoll;Grande;Sim;4;4827.27;Site;Boleto;SP
+53;Siberiano;Grande;Sim;5;3169.86;Site;PIX;DF
+54;Persa;Medio;Sim;4;2855.35;Instagram;Cartao de Credito;DF
+55;Persa;Medio;Sim;3;3148.8;Loja Fisica;Boleto;RJ
+56;Bengal;Medio;Sim;3;3502.44;Site;Cartao de Credito;BA
+57;Persa;Medio;Sim;5;2216.86;Instagram;PIX;PR
+58;Persa;Medio;Sim;3;2882.2;Instagram;Boleto;PR
+59;Bengal;Medio;Sim;4;4758.21;Site;PIX;RS
+60;Munchkin;Pequeno;Sim;1;3634.2;Instagram;Boleto;CE
+61;Bengal;Medio;Sim;2;4137.27;Loja Fisica;Boleto;BA
+62;Ragdoll;Grande;Sim;4;3955.33;Instagram;Cartao de Credito;BA
+63;Munchkin;Pequeno;Sim;3;3700.0;Loja Fisica;PIX;PR
+64;SRD (Vira-lata);Medio;Nao;1;86.67;Loja Fisica;PIX;BA
+65;Persa;Medio;Sim;1;2735.89;Site;Boleto;SP
+66;Persa;Medio;Sim;2;3150.0;Site;Boleto;RS
+67;Maine Coon;Grande;Sim;3;4725.44;Instagram;Boleto;SC
+68;SRD (Vira-lata);Medio;Nao;5;53.89;Site;PIX;PE
+69;SRD (Vira-lata);Medio;Nao;4;83.31;Instagram;Cartao de Credito;BA
+70;Munchkin;Pequeno;Sim;2;4007.11;Site;PIX;RS
+71;Maine Coon;Grande;Sim;4;5962.44;Loja Fisica;PIX;RJ
+72;Siberiano;Grande;Sim;3;3662.16;Loja Fisica;Cartao de Credito;CE
+73;Sphynx;Medio;Sim;3;5725.59;Site;PIX;RJ
+74;Munchkin;Pequeno;Sim;1;4270.67;Site;Boleto;RJ
+75;Angora;Medio;Nao;2;1475.54;Loja Fisica;Cartao de Credito;MG
+76;Siberiano;Grande;Sim;2;4021.63;Loja Fisica;PIX;RJ
+77;Sphynx;Medio;Sim;1;5196.42;Loja Fisica;Cartao de Credito;BA
+78;SRD (Vira-lata);Medio;Nao;4;58.94;Loja Fisica;PIX;PE
+79;Scottish Fold;Medio;Sim;1;4414.93;Loja Fisica;Cartao de Credito;PE
+80;Angora;Medio;Nao;2;1390.14;Loja Fisica;Cartao de Credito;SC
+81;Exotico;Medio;Sim;2;2889.4;Loja Fisica;Cartao de Credito;SC
+82;Exotico;Medio;Sim;4;3145.55;Loja Fisica;PIX;SP
+83;Munchkin;Pequeno;Sim;1;3643.43;Loja Fisica;Cartao de Credito;PR
+84;Maine Coon;Grande;Sim;5;6085.25;Instagram;Boleto;CE
+85;Bengal;Medio;Sim;4;4957.72;Instagram;Cartao de Credito;SC
+86;Exotico;Medio;Sim;2;3646.5;Loja Fisica;Boleto;RS
+87;Sphynx;Medio;Sim;3;6380.46;Loja Fisica;Cartao de Credito;CE
+88;Angora;Medio;Nao;1;1287.96;Loja Fisica;Cartao de Credito;MG
+89;British Shorthair;Medio;Sim;3;4667.08;Loja Fisica;Boleto;DF
+90;Scottish Fold;Medio;Sim;5;4517.96;Instagram;Boleto;RJ
+91;SRD (Vira-lata);Medio;Nao;2;158.34;Site;Cartao de Credito;RS
+92;Exotico;Medio;Sim;5;3783.1;Loja Fisica;Cartao de Credito;SP
+93;Bengal;Medio;Sim;1;4575.87;Instagram;Boleto;MG
+94;Angora;Medio;Nao;2;1119.31;Loja Fisica;PIX;DF
+95;Siames;Medio;Nao;3;660.63;Loja Fisica;Cartao de Credito;SP
+96;Bengal;Medio;Sim;3;3434.16;Site;PIX;DF
+97;Bengal;Medio;Sim;5;4626.36;Loja Fisica;Boleto;CE
+98;Siames;Medio;Nao;3;743.45;Instagram;Boleto;RS
+99;Siberiano;Grande;Sim;2;3006.42;Loja Fisica;Boleto;RJ
+100;Angora;Medio;Nao;4;1402.39;Site;Boleto;MG
+101;Maine Coon;Grande;Sim;4;4500.7;Loja Fisica;PIX;SP
+102;Angora;Medio;Nao;4;977.79;Loja Fisica;PIX;CE
+103;Bengal;Medio;Sim;4;3502.67;Site;Cartao de Credito;RJ
+104;Persa;Medio;Sim;1;3228.6;Site;Cartao de Credito;DF
+105;Persa;Medio;Sim;5;3128.61;Site;Cartao de Credito;DF
+106;Munchkin;Pequeno;Sim;3;4790.99;Instagram;PIX;RS
+107;Bengal;Medio;Sim;2;3968.56;Site;PIX;BA
+108;Siames;Medio;Nao;2;685.08;Loja Fisica;Boleto;PR
+109;Siames;Medio;Nao;4;889.15;Loja Fisica;Cartao de Credito;DF
+110;Scottish Fold;Medio;Sim;4;5337.83;Site;PIX;PR
+111;Siames;Medio;Nao;4;621.37;Instagram;Cartao de Credito;SP
+112;SRD (Vira-lata);Medio;Nao;1;73.43;Instagram;Boleto;RJ
+113;Scottish Fold;Medio;Sim;1;5539.92;Instagram;Cartao de Credito;DF
+114;Ragdoll;Grande;Sim;3;4726.67;Instagram;Boleto;BA
+115;Ragdoll;Grande;Sim;1;3922.23;Loja Fisica;PIX;MG
+116;Angora;Medio;Nao;5;1081.18;Instagram;Cartao de Credito;RS
+117;Bengal;Medio;Sim;4;4720.26;Instagram;Boleto;CE
+118;Siames;Medio;Nao;1;1045.14;Instagram;Boleto;MG
+119;Munchkin;Pequeno;Sim;5;4726.6;Instagram;PIX;PE
+120;Exotico;Medio;Sim;2;3426.92;Instagram;Cartao de Credito;SP
+121;Sphynx;Medio;Sim;3;6616.0;Site;Cartao de Credito;RS
+122;Munchkin;Pequeno;Sim;5;4797.01;Instagram;Cartao de Credito;PR
+123;Maine Coon;Grande;Sim;1;5249.79;Instagram;PIX;PE
+124;Angora;Medio;Nao;3;1352.62;Instagram;PIX;RJ
+125;Exotico;Medio;Sim;5;2872.84;Instagram;Cartao de Credito;MG
+126;Munchkin;Pequeno;Sim;1;4492.6;Site;Boleto;PR
+127;Exotico;Medio;Sim;5;3297.53;Site;Boleto;BA
+128;Angora;Medio;Nao;3;1102.71;Site;PIX;PR
+129;Siames;Medio;Nao;1;945.43;Instagram;PIX;SC
+130;Persa;Medio;Sim;2;2391.32;Instagram;PIX;BA
+131;Scottish Fold;Medio;Sim;2;5434.23;Loja Fisica;Boleto;MG
+132;Angora;Medio;Nao;4;1200.08;Loja Fisica;Cartao de Credito;MG
+133;Bengal;Medio;Sim;3;4976.87;Instagram;Boleto;PE
+134;SRD (Vira-lata);Medio;Nao;1;114.03;Site;Cartao de Credito;SC
+135;Persa;Medio;Sim;4;3324.23;Instagram;PIX;SC
+136;Siberiano;Grande;Sim;4;3017.36;Loja Fisica;Boleto;SC
+137;Sphynx;Medio;Sim;3;6556.62;Instagram;Boleto;CE
+138;Siberiano;Grande;Sim;5;3834.23;Instagram;PIX;SP
+139;Maine Coon;Grande;Sim;2;5806.74;Loja Fisica;Boleto;PE
+140;Ragdoll;Grande;Sim;1;4287.46;Instagram;PIX;RS
+141;Sphynx;Medio;Sim;5;5621.52;Loja Fisica;Cartao de Credito;PR
+142;Angora;Medio;Nao;1;970.86;Loja Fisica;Boleto;SP
+143;British Shorthair;Medio;Sim;4;4773.12;Site;Boleto;PE
+144;Siames;Medio;Nao;2;691.73;Loja Fisica;Cartao de Credito;BA
+145;Scottish Fold;Medio;Sim;4;4387.14;Loja Fisica;Cartao de Credito;CE
+146;Ragdoll;Grande;Sim;1;4074.34;Loja Fisica;Boleto;RJ
+147;Sphynx;Medio;Sim;2;5380.04;Loja Fisica;Cartao de Credito;PE
+148;Scottish Fold;Medio;Sim;4;5719.24;Instagram;PIX;BA
+149;Persa;Medio;Sim;1;3417.04;Instagram;Cartao de Credito;BA
+150;Scottish Fold;Medio;Sim;3;4788.45;Loja Fisica;Cartao de Credito;DF
+151;Maine Coon;Grande;Sim;1;4553.93;Site;Boleto;SC
+152;Persa;Medio;Sim;2;3245.03;Site;Boleto;RS
+153;Maine Coon;Grande;Sim;3;5709.94;Site;PIX;CE
+154;Angora;Medio;Nao;1;1269.38;Loja Fisica;PIX;SC
+155;SRD (Vira-lata);Medio;Nao;4;133.72;Site;PIX;PR
+156;Siberiano;Grande;Sim;4;3946.68;Site;Boleto;PE
+157;Siberiano;Grande;Sim;3;3523.63;Site;PIX;BA
+158;Siberiano;Grande;Sim;1;4087.76;Instagram;Cartao de Credito;BA
+159;British Shorthair;Medio;Sim;5;4919.04;Loja Fisica;PIX;SP
+160;Maine Coon;Grande;Sim;4;6079.89;Site;Boleto;DF
+161;Bengal;Medio;Sim;5;3623.11;Site;PIX;CE
+162;SRD (Vira-lata);Medio;Nao;4;171.2;Loja Fisica;Boleto;BA
+163;Munchkin;Pequeno;Sim;1;3978.73;Instagram;Boleto;MG
+164;Maine Coon;Grande;Sim;3;5899.21;Loja Fisica;PIX;RS
+165;Ragdoll;Grande;Sim;2;4024.43;Site;Boleto;PR
+166;British Shorthair;Medio;Sim;2;4445.06;Instagram;Boleto;SP
+167;Angora;Medio;Nao;3;1457.68;Loja Fisica;Boleto;PE
+168;Persa;Medio;Sim;2;2406.0;Site;Boleto;MG
+169;Sphynx;Medio;Sim;1;5201.13;Loja Fisica;Cartao de Credito;PR
+170;Siames;Medio;Nao;2;1056.39;Site;PIX;RJ
+171;Munchkin;Pequeno;Sim;5;3565.94;Instagram;PIX;RJ
+172;Ragdoll;Grande;Sim;2;4132.52;Site;PIX;PE
+173;Angora;Medio;Nao;2;1249.14;Instagram;Cartao de Credito;SP
+174;British Shorthair;Medio;Sim;4;4466.37;Site;Boleto;DF
+175;Maine Coon;Grande;Sim;5;4787.42;Loja Fisica;Cartao de Credito;PE
+176;Munchkin;Pequeno;Sim;2;4786.16;Instagram;Boleto;PR
+177;Maine Coon;Grande;Sim;5;4837.33;Site;Boleto;RJ
+178;Siames;Medio;Nao;3;914.07;Instagram;PIX;PE
+179;Scottish Fold;Medio;Sim;4;4570.08;Instagram;PIX;DF
+180;Ragdoll;Grande;Sim;1;4906.81;Site;Boleto;RS
+181;Bengal;Medio;Sim;2;4937.66;Instagram;PIX;PR
+182;Persa;Medio;Sim;1;2733.07;Site;Cartao de Credito;RJ
+183;Maine Coon;Grande;Sim;4;5146.39;Loja Fisica;Cartao de Credito;CE
+184;Bengal;Medio;Sim;1;4569.2;Instagram;PIX;MG
+185;Bengal;Medio;Sim;3;3429.05;Instagram;Boleto;PE
+186;Bengal;Medio;Sim;1;4453.83;Site;Cartao de Credito;SC
+187;Siames;Medio;Nao;2;1087.26;Instagram;Cartao de Credito;RS
+188;British Shorthair;Medio;Sim;5;4138.4;Loja Fisica;Boleto;SC
+189;Sphynx;Medio;Sim;4;5894.87;Loja Fisica;PIX;PR
+190;Maine Coon;Grande;Sim;3;4913.97;Site;PIX;CE
+191;SRD (Vira-lata);Medio;Nao;4;105.79;Loja Fisica;Cartao de Credito;DF
+192;Sphynx;Medio;Sim;4;6069.16;Site;Boleto;SP
+193;Scottish Fold;Medio;Sim;2;5774.01;Loja Fisica;Boleto;DF
+194;SRD (Vira-lata);Medio;Nao;2;194.43;Site;Cartao de Credito;DF
+195;Sphynx;Medio;Sim;1;6305.18;Site;Cartao de Credito;SP
+196;SRD (Vira-lata);Medio;Nao;1;88.93;Site;PIX;PE
+197;Maine Coon;Grande;Sim;2;4983.91;Loja Fisica;PIX;RS
+198;Angora;Medio;Nao;4;1228.24;Loja Fisica;Cartao de Credito;DF
+199;Ragdoll;Grande;Sim;3;5163.14;Instagram;Boleto;SC
+200;Angora;Medio;Nao;2;945.04;Instagram;Cartao de Credito;RS
+201;Siames;Medio;Nao;3;683.97;Site;Cartao de Credito;PE
+202;Munchkin;Pequeno;Sim;4;4304.89;Loja Fisica;PIX;MG
+203;Siberiano;Grande;Sim;4;3274.88;Instagram;Cartao de Credito;SP
+204;British Shorthair;Medio;Sim;5;5368.93;Site;PIX;PR
+205;SRD (Vira-lata);Medio;Nao;1;153.29;Loja Fisica;PIX;CE
+206;Munchkin;Pequeno;Sim;5;4124.37;Instagram;Cartao de Credito;RS
+207;Exotico;Medio;Sim;2;3124.29;Site;Boleto;PR
+208;Munchkin;Pequeno;Sim;5;3777.59;Loja Fisica;PIX;CE
+209;SRD (Vira-lata);Medio;Nao;3;91.95;Site;Cartao de Credito;MG
+210;Munchkin;Pequeno;Sim;4;3916.97;Loja Fisica;PIX;RJ
+211;Sphynx;Medio;Sim;2;6914.1;Loja Fisica;Boleto;PE
+212;Persa;Medio;Sim;1;2680.93;Instagram;PIX;DF
+213;Ragdoll;Grande;Sim;3;4718.02;Loja Fisica;Boleto;PR
+214;Angora;Medio;Nao;3;1285.14;Loja Fisica;Cartao de Credito;DF
+215;Exotico;Medio;Sim;3;3002.68;Site;Cartao de Credito;PE
+216;British Shorthair;Medio;Sim;3;5366.27;Site;Cartao de Credito;CE
+217;British Shorthair;Medio;Sim;3;4237.31;Site;Boleto;RJ
+218;Exotico;Medio;Sim;2;2944.27;Site;Boleto;SP
+219;Exotico;Medio;Sim;3;3193.38;Site;Boleto;PR
+220;SRD (Vira-lata);Medio;Nao;3;53.77;Instagram;PIX;MG
+221;British Shorthair;Medio;Sim;2;4393.15;Site;PIX;DF
+222;Munchkin;Pequeno;Sim;4;3992.08;Loja Fisica;PIX;RJ
+223;Scottish Fold;Medio;Sim;5;5744.3;Instagram;PIX;MG
+224;SRD (Vira-lata);Medio;Nao;1;179.43;Site;Cartao de Credito;PR
+225;Exotico;Medio;Sim;4;3197.31;Loja Fisica;Boleto;RS
+226;Exotico;Medio;Sim;4;3778.81;Instagram;PIX;DF
+227;Ragdoll;Grande;Sim;2;4258.21;Site;Boleto;DF
+228;British Shorthair;Medio;Sim;1;4277.66;Site;Boleto;SC
+229;Angora;Medio;Nao;4;1489.86;Instagram;PIX;SP
+230;Siberiano;Grande;Sim;1;3749.94;Instagram;PIX;BA
+231;Siames;Medio;Nao;2;957.9;Loja Fisica;PIX;SC
+232;Exotico;Medio;Sim;2;3680.47;Loja Fisica;PIX;PR
+233;Siberiano;Grande;Sim;1;3043.5;Instagram;PIX;PE
+234;Sphynx;Medio;Sim;5;5275.8;Loja Fisica;Boleto;PE
+235;Scottish Fold;Medio;Sim;4;5129.42;Instagram;Boleto;PR
+236;Siames;Medio;Nao;4;654.46;Loja Fisica;Boleto;SC
+237;Exotico;Medio;Sim;1;2942.67;Site;Boleto;CE
+238;SRD (Vira-lata);Medio;Nao;5;70.98;Loja Fisica;PIX;MG
+239;Siames;Medio;Nao;3;983.49;Site;PIX;PR
+240;SRD (Vira-lata);Medio;Nao;1;152.2;Site;Cartao de Credito;RJ
+241;SRD (Vira-lata);Medio;Nao;5;187.54;Loja Fisica;PIX;RS
+242;Siames;Medio;Nao;5;925.76;Instagram;Cartao de Credito;PR
+243;Sphynx;Medio;Sim;3;6828.56;Instagram;PIX;CE
+244;Ragdoll;Grande;Sim;4;3854.2;Loja Fisica;PIX;RJ
+245;Siberiano;Grande;Sim;4;3236.33;Instagram;Boleto;SP
+246;Munchkin;Pequeno;Sim;2;4750.58;Instagram;PIX;MG
+247;Scottish Fold;Medio;Sim;5;4462.16;Instagram;Boleto;RS
+248;Bengal;Medio;Sim;1;4877.96;Site;PIX;RJ
+249;Bengal;Medio;Sim;5;3339.01;Site;Boleto;PE
+250;Sphynx;Medio;Sim;1;5252.65;Instagram;PIX;DF
+251;Munchkin;Pequeno;Sim;5;4302.0;Instagram;Boleto;CE
+252;Sphynx;Medio;Sim;4;6265.42;Instagram;Cartao de Credito;MG
+253;SRD (Vira-lata);Medio;Nao;2;167.52;Site;Cartao de Credito;RJ
+254;Siames;Medio;Nao;4;1037.67;Loja Fisica;Cartao de Credito;BA
+255;SRD (Vira-lata);Medio;Nao;4;96.42;Instagram;Boleto;RS
+256;Exotico;Medio;Sim;5;3391.45;Instagram;PIX;CE
+257;Siames;Medio;Nao;4;941.49;Loja Fisica;Cartao de Credito;BA
+258;Maine Coon;Grande;Sim;4;5945.41;Loja Fisica;Cartao de Credito;MG
+259;Angora;Medio;Nao;2;951.08;Instagram;Boleto;RS
+260;Sphynx;Medio;Sim;2;5631.75;Instagram;Cartao de Credito;RS
+261;Siames;Medio;Nao;2;1057.56;Instagram;Boleto;SP
+262;Munchkin;Pequeno;Sim;4;3982.24;Instagram;PIX;RS
+263;SRD (Vira-lata);Medio;Nao;3;119.26;Instagram;PIX;PE
+264;Siames;Medio;Nao;2;708.94;Instagram;PIX;CE
+265;Exotico;Medio;Sim;3;2931.43;Loja Fisica;Cartao de Credito;RJ
+266;Ragdoll;Grande;Sim;3;4950.95;Site;Boleto;PE
+267;Angora;Medio;Nao;2;904.67;Instagram;Boleto;SP
+268;Scottish Fold;Medio;Sim;2;4900.89;Loja Fisica;Cartao de Credito;RS
+269;Bengal;Medio;Sim;1;4506.8;Loja Fisica;Cartao de Credito;PR
+270;Persa;Medio;Sim;1;2673.56;Loja Fisica;Cartao de Credito;DF
+271;Siames;Medio;Nao;2;982.55;Loja Fisica;PIX;CE
+272;Maine Coon;Grande;Sim;1;4790.53;Instagram;Boleto;CE
+273;Munchkin;Pequeno;Sim;1;3576.97;Loja Fisica;PIX;PE
+274;Siberiano;Grande;Sim;5;3614.16;Loja Fisica;Boleto;BA
+275;Siberiano;Grande;Sim;1;3029.73;Instagram;Boleto;RS
+276;SRD (Vira-lata);Medio;Nao;4;140.07;Site;Boleto;CE
+277;British Shorthair;Medio;Sim;1;4803.77;Loja Fisica;PIX;RS
+278;Angora;Medio;Nao;2;1199.72;Site;PIX;SC
+279;British Shorthair;Medio;Sim;4;5176.69;Instagram;Cartao de Credito;RS
+280;Maine Coon;Grande;Sim;1;6038.86;Instagram;Cartao de Credito;SC
+281;Siames;Medio;Nao;2;785.55;Instagram;PIX;PR
+282;Bengal;Medio;Sim;4;4921.22;Instagram;Cartao de Credito;SP
+283;Angora;Medio;Nao;5;1390.77;Site;Cartao de Credito;PR
+284;SRD (Vira-lata);Medio;Nao;4;68.06;Instagram;Boleto;BA
+285;Sphynx;Medio;Sim;1;6307.55;Loja Fisica;PIX;PR
+286;Munchkin;Pequeno;Sim;5;4702.27;Loja Fisica;PIX;RS
+287;Ragdoll;Grande;Sim;3;4856.17;Instagram;Boleto;MG
+288;British Shorthair;Medio;Sim;1;4007.67;Instagram;Cartao de Credito;BA
+289;Exotico;Medio;Sim;1;2814.22;Instagram;Cartao de Credito;BA
+290;Exotico;Medio;Sim;5;3653.59;Instagram;Cartao de Credito;PE
+291;Angora;Medio;Nao;4;1132.73;Instagram;PIX;RJ
+292;Ragdoll;Grande;Sim;1;4308.24;Instagram;PIX;SP
+293;Ragdoll;Grande;Sim;2;4649.67;Loja Fisica;PIX;RS
+294;Exotico;Medio;Sim;3;3389.16;Site;Boleto;MG
+295;Bengal;Medio;Sim;5;3503.63;Site;Boleto;SP
+296;Bengal;Medio;Sim;3;3711.48;Loja Fisica;Boleto;RJ
+297;Munchkin;Pequeno;Sim;1;3964.69;Loja Fisica;Cartao de Credito;RJ
+298;Munchkin;Pequeno;Sim;2;3556.42;Instagram;Boleto;DF
+299;Siberiano;Grande;Sim;5;3053.64;Site;Cartao de Credito;SC
+300;Munchkin;Pequeno;Sim;4;3854.14;Loja Fisica;Boleto;PR
+301;Angora;Medio;Nao;2;1460.69;Site;Cartao de Credito;PR
+302;Persa;Medio;Sim;2;3398.58;Site;Boleto;PE
+303;Persa;Medio;Sim;3;2570.07;Instagram;PIX;PR
+304;Siberiano;Grande;Sim;2;4073.84;Site;Boleto;SC
+305;Sphynx;Medio;Sim;3;6729.86;Site;Boleto;SP
+306;Siames;Medio;Nao;5;689.12;Site;Cartao de Credito;PR
+307;Munchkin;Pequeno;Sim;3;4687.36;Instagram;Boleto;PR
+308;Siberiano;Grande;Sim;3;3849.25;Instagram;Boleto;PR
+309;Sphynx;Medio;Sim;4;6527.69;Site;Boleto;BA
+310;Scottish Fold;Medio;Sim;3;5412.61;Site;PIX;DF
+311;British Shorthair;Medio;Sim;1;5345.74;Instagram;PIX;CE
+312;Bengal;Medio;Sim;4;3323.57;Site;PIX;RJ
+313;Maine Coon;Grande;Sim;4;5214.59;Instagram;Boleto;SC
+314;Scottish Fold;Medio;Sim;1;5209.17;Instagram;PIX;SC
+315;Siames;Medio;Nao;4;655.37;Instagram;Boleto;BA
+316;Persa;Medio;Sim;4;3444.17;Loja Fisica;Boleto;PR
+317;Persa;Medio;Sim;2;2879.93;Loja Fisica;PIX;SP
+318;Munchkin;Pequeno;Sim;2;4511.96;Loja Fisica;Cartao de Credito;SP
+319;Munchkin;Pequeno;Sim;2;4121.63;Site;Cartao de Credito;MG
+320;Sphynx;Medio;Sim;1;5279.23;Loja Fisica;Boleto;RJ
+321;Bengal;Medio;Sim;5;4761.73;Instagram;Boleto;RJ
+322;Persa;Medio;Sim;5;3150.51;Loja Fisica;Cartao de Credito;MG
+323;Exotico;Medio;Sim;4;3619.77;Site;Cartao de Credito;SP
+324;Persa;Medio;Sim;2;2285.12;Loja Fisica;PIX;BA
+325;Angora;Medio;Nao;2;1025.56;Loja Fisica;Cartao de Credito;DF
+326;Persa;Medio;Sim;4;2808.91;Instagram;Cartao de Credito;PE
+327;Bengal;Medio;Sim;1;3438.81;Site;Boleto;PR
+328;Siames;Medio;Nao;5;1058.79;Site;Boleto;PR
+329;Ragdoll;Grande;Sim;3;4293.13;Site;PIX;SP
+330;Angora;Medio;Nao;4;1346.32;Site;Boleto;RS
+331;Munchkin;Pequeno;Sim;3;3912.14;Site;Boleto;RJ
+332;Munchkin;Pequeno;Sim;3;4668.23;Loja Fisica;Cartao de Credito;BA
+333;Scottish Fold;Medio;Sim;4;5371.21;Instagram;Cartao de Credito;RS
+334;Angora;Medio;Nao;3;1449.0;Instagram;Cartao de Credito;PR
+335;British Shorthair;Medio;Sim;4;4504.1;Site;PIX;RS
+336;Sphynx;Medio;Sim;2;5405.03;Loja Fisica;PIX;CE
+337;Sphynx;Medio;Sim;5;6861.35;Instagram;Cartao de Credito;SP
+338;Siberiano;Grande;Sim;2;3537.87;Site;PIX;SP
+339;Siberiano;Grande;Sim;1;3369.29;Site;Boleto;MG
+340;Sphynx;Medio;Sim;2;6788.16;Instagram;PIX;RJ
+341;Scottish Fold;Medio;Sim;2;5656.26;Loja Fisica;Cartao de Credito;SC
+342;Munchkin;Pequeno;Sim;2;4292.45;Site;Cartao de Credito;RS
+343;SRD (Vira-lata);Medio;Nao;5;62.86;Site;PIX;BA
+344;Bengal;Medio;Sim;5;4688.38;Instagram;PIX;RJ
+345;Siames;Medio;Nao;2;910.2;Loja Fisica;PIX;MG
+346;Ragdoll;Grande;Sim;5;3890.91;Site;Cartao de Credito;RJ
+347;Bengal;Medio;Sim;1;3221.01;Instagram;Boleto;PR
+348;Maine Coon;Grande;Sim;3;5829.9;Instagram;Cartao de Credito;SC
+349;Sphynx;Medio;Sim;5;5677.8;Instagram;Cartao de Credito;RS
+350;Munchkin;Pequeno;Sim;1;3523.08;Site;Cartao de Credito;SP
+351;SRD (Vira-lata);Medio;Nao;3;113.16;Site;Cartao de Credito;BA
+352;Maine Coon;Grande;Sim;2;4841.41;Site;Cartao de Credito;PR
+353;Ragdoll;Grande;Sim;4;4539.53;Instagram;Boleto;CE
+354;Sphynx;Medio;Sim;3;6726.69;Instagram;Boleto;PR
+355;Persa;Medio;Sim;3;3078.77;Loja Fisica;Cartao de Credito;SP
+356;Maine Coon;Grande;Sim;1;4634.84;Loja Fisica;PIX;PR
+357;Scottish Fold;Medio;Sim;4;4456.52;Instagram;PIX;CE
+358;Munchkin;Pequeno;Sim;1;3519.72;Instagram;PIX;MG
+359;Exotico;Medio;Sim;1;3194.04;Instagram;PIX;DF
+360;SRD (Vira-lata);Medio;Nao;4;77.82;Loja Fisica;PIX;PE
+361;Exotico;Medio;Sim;3;3643.07;Loja Fisica;Boleto;RJ
+362;Exotico;Medio;Sim;5;3554.89;Site;Cartao de Credito;SC
+363;British Shorthair;Medio;Sim;1;4089.15;Loja Fisica;Boleto;CE
+364;Bengal;Medio;Sim;5;4166.64;Instagram;Cartao de Credito;RS
+365;Persa;Medio;Sim;4;3097.06;Instagram;Cartao de Credito;BA
+366;Scottish Fold;Medio;Sim;1;4705.67;Loja Fisica;Cartao de Credito;RS
+367;Munchkin;Pequeno;Sim;3;4597.15;Loja Fisica;Cartao de Credito;SP
+368;Maine Coon;Grande;Sim;4;4518.51;Instagram;Boleto;PE
+369;Exotico;Medio;Sim;5;3771.23;Loja Fisica;Cartao de Credito;BA
+370;British Shorthair;Medio;Sim;3;5061.03;Site;Boleto;SC
+371;Angora;Medio;Nao;3;1123.65;Instagram;Cartao de Credito;CE
+372;Sphynx;Medio;Sim;5;5637.88;Site;Boleto;BA
+373;Angora;Medio;Nao;2;1351.32;Loja Fisica;Boleto;DF
+374;Persa;Medio;Sim;2;3412.37;Site;PIX;DF
+375;Angora;Medio;Nao;4;1325.49;Loja Fisica;Cartao de Credito;SC
+376;Angora;Medio;Nao;5;961.89;Instagram;PIX;CE
+377;Bengal;Medio;Sim;3;3208.16;Site;PIX;CE
+378;Angora;Medio;Nao;3;986.87;Site;Boleto;SP
+379;Persa;Medio;Sim;5;2740.82;Loja Fisica;Boleto;DF
+380;Bengal;Medio;Sim;2;4377.13;Instagram;PIX;RS
+381;Siberiano;Grande;Sim;1;3833.39;Loja Fisica;PIX;PE
+382;British Shorthair;Medio;Sim;3;4734.65;Loja Fisica;Boleto;PE
+383;British Shorthair;Medio;Sim;2;4967.07;Loja Fisica;Cartao de Credito;RJ
+384;Exotico;Medio;Sim;3;3395.3;Site;Cartao de Credito;PR
+385;Bengal;Medio;Sim;2;3382.76;Instagram;Cartao de Credito;RS
+386;British Shorthair;Medio;Sim;3;4338.96;Loja Fisica;PIX;PE
+387;Scottish Fold;Medio;Sim;1;5706.66;Loja Fisica;PIX;DF
+388;Ragdoll;Grande;Sim;1;4485.56;Instagram;Boleto;PR
+389;Siberiano;Grande;Sim;4;3088.36;Loja Fisica;Boleto;RS
+390;Sphynx;Medio;Sim;4;5141.14;Loja Fisica;Cartao de Credito;PE
+391;Siberiano;Grande;Sim;5;3897.07;Instagram;Cartao de Credito;PR
+392;Ragdoll;Grande;Sim;3;4410.37;Loja Fisica;Boleto;BA
+393;Siberiano;Grande;Sim;3;3263.47;Instagram;Cartao de Credito;CE
+394;Siberiano;Grande;Sim;5;3595.09;Loja Fisica;Cartao de Credito;CE
+395;British Shorthair;Medio;Sim;5;4431.54;Instagram;PIX;SC
+396;Ragdoll;Grande;Sim;1;5193.09;Site;PIX;SP
+397;Persa;Medio;Sim;1;2601.59;Loja Fisica;Boleto;RJ
+398;Maine Coon;Grande;Sim;5;6338.33;Loja Fisica;Boleto;PR
+399;Scottish Fold;Medio;Sim;4;5212.43;Site;Cartao de Credito;RJ
+400;Siames;Medio;Nao;3;820.38;Loja Fisica;PIX;RJ
+401;SRD (Vira-lata);Medio;Nao;1;160.55;Instagram;PIX;SP
+402;Bengal;Medio;Sim;1;3546.08;Loja Fisica;Cartao de Credito;PE
+403;Siames;Medio;Nao;1;707.57;Instagram;Cartao de Credito;BA
+404;Siberiano;Grande;Sim;5;3522.98;Loja Fisica;PIX;RS
+405;Siames;Medio;Nao;2;905.6;Site;PIX;MG
+406;Exotico;Medio;Sim;1;3222.87;Instagram;Cartao de Credito;MG
+407;Ragdoll;Grande;Sim;3;4320.65;Instagram;Cartao de Credito;DF
+408;SRD (Vira-lata);Medio;Nao;4;77.72;Site;Cartao de Credito;SC
+409;Sphynx;Medio;Sim;1;5782.71;Site;Boleto;DF
+410;Bengal;Medio;Sim;3;3914.35;Instagram;PIX;PR
+411;Siames;Medio;Nao;4;1035.75;Loja Fisica;Boleto;PR
+412;Maine Coon;Grande;Sim;4;5181.35;Loja Fisica;Cartao de Credito;SC
+413;Bengal;Medio;Sim;4;3701.24;Site;Cartao de Credito;PE
+414;Angora;Medio;Nao;5;1350.89;Loja Fisica;Cartao de Credito;DF
+415;Siames;Medio;Nao;5;1029.96;Instagram;Boleto;PR
+416;Persa;Medio;Sim;5;3187.7;Loja Fisica;PIX;BA
+417;Siames;Medio;Nao;4;606.24;Instagram;Boleto;PE
+418;Scottish Fold;Medio;Sim;3;5640.87;Instagram;Boleto;RS
+419;Munchkin;Pequeno;Sim;1;4433.55;Site;PIX;SC
+420;Scottish Fold;Medio;Sim;1;4859.98;Instagram;Cartao de Credito;SC
+421;SRD (Vira-lata);Medio;Nao;4;56.7;Site;Boleto;MG
+422;Maine Coon;Grande;Sim;3;4734.71;Site;Cartao de Credito;CE
+423;Munchkin;Pequeno;Sim;3;3714.8;Loja Fisica;Boleto;PR
+424;Exotico;Medio;Sim;4;3408.33;Instagram;PIX;DF
+425;Exotico;Medio;Sim;1;3752.61;Instagram;Boleto;PR
+426;British Shorthair;Medio;Sim;4;4680.27;Loja Fisica;PIX;PE
+427;Siames;Medio;Nao;3;665.68;Instagram;Boleto;CE
+428;Angora;Medio;Nao;3;1146.72;Loja Fisica;Cartao de Credito;MG
+429;SRD (Vira-lata);Medio;Nao;3;145.24;Loja Fisica;PIX;SC
+430;Munchkin;Pequeno;Sim;1;3579.03;Site;Cartao de Credito;DF
+431;Persa;Medio;Sim;1;3010.03;Instagram;PIX;BA
+432;Scottish Fold;Medio;Sim;2;5533.67;Site;Cartao de Credito;DF
+433;Maine Coon;Grande;Sim;5;5224.06;Site;Boleto;CE
+434;Bengal;Medio;Sim;1;4655.79;Instagram;PIX;SC
+435;Persa;Medio;Sim;4;3230.79;Site;PIX;RJ
+436;Ragdoll;Grande;Sim;3;4097.87;Loja Fisica;PIX;DF
+437;Munchkin;Pequeno;Sim;5;4548.31;Instagram;Boleto;SP
+438;Scottish Fold;Medio;Sim;5;5431.99;Instagram;PIX;BA
+439;Siames;Medio;Nao;4;980.25;Loja Fisica;Boleto;BA
+440;Scottish Fold;Medio;Sim;5;4560.42;Site;Cartao de Credito;RS
+441;Angora;Medio;Nao;2;1370.87;Site;Cartao de Credito;RS
+442;Exotico;Medio;Sim;2;3589.36;Site;PIX;SP
+443;Scottish Fold;Medio;Sim;4;4350.95;Instagram;PIX;PE
+444;Siames;Medio;Nao;1;1074.59;Site;Boleto;SC
+445;Ragdoll;Grande;Sim;2;4060.66;Loja Fisica;Boleto;MG
+446;Angora;Medio;Nao;2;1194.39;Loja Fisica;PIX;CE
+447;Exotico;Medio;Sim;2;3004.32;Loja Fisica;Boleto;SC
+448;SRD (Vira-lata);Medio;Nao;2;143.14;Loja Fisica;Boleto;CE
+449;Exotico;Medio;Sim;3;2850.58;Loja Fisica;Cartao de Credito;RJ
+450;British Shorthair;Medio;Sim;3;5487.92;Loja Fisica;Cartao de Credito;MG
+451;SRD (Vira-lata);Medio;Nao;4;113.2;Loja Fisica;Boleto;RJ
+452;Persa;Medio;Sim;4;3105.5;Instagram;Cartao de Credito;RJ
+453;Angora;Medio;Nao;1;1051.53;Instagram;Boleto;CE
+454;Scottish Fold;Medio;Sim;1;5793.86;Site;PIX;PR
+455;SRD (Vira-lata);Medio;Nao;5;73.42;Instagram;PIX;BA
+456;British Shorthair;Medio;Sim;3;4520.74;Loja Fisica;Boleto;SC
+457;Siberiano;Grande;Sim;1;3256.25;Site;Cartao de Credito;MG
+458;Maine Coon;Grande;Sim;5;6388.16;Instagram;Boleto;RS
+459;Siberiano;Grande;Sim;2;3515.75;Loja Fisica;PIX;PE
+460;Maine Coon;Grande;Sim;2;5588.29;Site;PIX;PE
+461;Persa;Medio;Sim;4;2276.82;Loja Fisica;PIX;BA
+462;Persa;Medio;Sim;5;3427.9;Site;PIX;PR
+463;Munchkin;Pequeno;Sim;2;3694.27;Instagram;Boleto;PE
+464;Maine Coon;Grande;Sim;5;5931.02;Instagram;Boleto;BA
+465;SRD (Vira-lata);Medio;Nao;2;83.5;Instagram;PIX;BA
+466;Munchkin;Pequeno;Sim;3;4263.12;Instagram;PIX;SP
+467;Maine Coon;Grande;Sim;1;4908.48;Loja Fisica;PIX;RJ
+468;Persa;Medio;Sim;4;3014.02;Loja Fisica;Boleto;RJ
+469;Ragdoll;Grande;Sim;2;4662.37;Loja Fisica;Boleto;BA
+470;Scottish Fold;Medio;Sim;1;4277.05;Loja Fisica;Cartao de Credito;SC
+471;Scottish Fold;Medio;Sim;4;4420.04;Instagram;Boleto;MG
+472;Ragdoll;Grande;Sim;1;4563.35;Loja Fisica;Boleto;MG
+473;Siberiano;Grande;Sim;4;4105.87;Site;Cartao de Credito;DF
+474;Persa;Medio;Sim;1;2873.39;Instagram;Boleto;CE
+475;SRD (Vira-lata);Medio;Nao;4;94.6;Site;PIX;BA
+476;Sphynx;Medio;Sim;1;6917.86;Loja Fisica;Cartao de Credito;RS
+477;Bengal;Medio;Sim;3;4626.3;Instagram;Cartao de Credito;SP
+478;Exotico;Medio;Sim;1;2837.36;Loja Fisica;Boleto;RJ
+479;Scottish Fold;Medio;Sim;4;5038.84;Site;PIX;DF
+480;Maine Coon;Grande;Sim;5;4651.93;Site;Cartao de Credito;SP
+481;Bengal;Medio;Sim;2;4046.15;Loja Fisica;Boleto;RS
+482;Siberiano;Grande;Sim;1;3807.65;Site;Cartao de Credito;PR
+483;Siames;Medio;Nao;2;800.68;Instagram;Boleto;MG
+484;Angora;Medio;Nao;3;1111.44;Instagram;Boleto;BA
+485;Bengal;Medio;Sim;4;3420.13;Site;Boleto;BA
+486;Maine Coon;Grande;Sim;2;5445.82;Instagram;Boleto;RJ
+487;Persa;Medio;Sim;3;3444.82;Site;Cartao de Credito;BA
+488;British Shorthair;Medio;Sim;3;5132.38;Site;Cartao de Credito;MG
+489;Munchkin;Pequeno;Sim;2;4585.54;Loja Fisica;PIX;SP
+490;Persa;Medio;Sim;3;2460.34;Site;Cartao de Credito;SC
+491;Ragdoll;Grande;Sim;3;4174.86;Instagram;Boleto;CE
+492;Bengal;Medio;Sim;1;4286.67;Loja Fisica;Boleto;MG
+493;Maine Coon;Grande;Sim;5;5395.92;Loja Fisica;PIX;MG
+494;Bengal;Medio;Sim;5;3918.71;Site;PIX;SP
+495;Scottish Fold;Medio;Sim;2;5707.17;Instagram;Boleto;DF
+496;Scottish Fold;Medio;Sim;3;4923.77;Instagram;Boleto;BA
+497;Ragdoll;Grande;Sim;3;4517.79;Instagram;PIX;SP
+498;Exotico;Medio;Sim;3;3514.08;Site;PIX;CE
+499;Exotico;Medio;Sim;3;2831.02;Loja Fisica;Cartao de Credito;MG
+500;Siames;Medio;Nao;4;770.15;Loja Fisica;Cartao de Credito;RS
+501;Exotico;Medio;Sim;4;2815.47;Site;Cartao de Credito;PE
+502;British Shorthair;Medio;Sim;1;5323.59;Instagram;Boleto;CE
+503;Exotico;Medio;Sim;2;3465.94;Loja Fisica;PIX;PR
+504;Sphynx;Medio;Sim;1;5613.77;Loja Fisica;PIX;BA
+505;Siames;Medio;Nao;1;821.22;Loja Fisica;Cartao de Credito;PR
+506;Siberiano;Grande;Sim;2;3197.06;Instagram;PIX;MG
+507;British Shorthair;Medio;Sim;1;5481.58;Loja Fisica;Boleto;PR
+508;Angora;Medio;Nao;1;1363.66;Site;PIX;RJ
+509;Maine Coon;Grande;Sim;3;5838.65;Loja Fisica;PIX;RS
+510;Munchkin;Pequeno;Sim;3;4208.17;Site;PIX;MG
+511;Munchkin;Pequeno;Sim;5;4381.92;Loja Fisica;Boleto;PR
+512;Bengal;Medio;Sim;4;3267.32;Instagram;Cartao de Credito;CE
+513;Siames;Medio;Nao;1;890.25;Site;Cartao de Credito;SP
+514;Siames;Medio;Nao;1;931.56;Site;Boleto;RJ
+515;Maine Coon;Grande;Sim;4;6492.32;Instagram;PIX;SP
+516;Persa;Medio;Sim;4;2355.5;Site;PIX;PE
+517;Persa;Medio;Sim;4;2776.13;Instagram;Cartao de Credito;BA
+518;Persa;Medio;Sim;4;3058.17;Loja Fisica;Boleto;RJ
+519;Ragdoll;Grande;Sim;3;4970.02;Instagram;Cartao de Credito;SC
+520;Scottish Fold;Medio;Sim;2;4719.39;Site;PIX;BA
+521;Angora;Medio;Nao;3;1411.36;Loja Fisica;PIX;SP
+522;Ragdoll;Grande;Sim;2;4594.67;Loja Fisica;Boleto;RJ
+523;Ragdoll;Grande;Sim;1;4374.94;Loja Fisica;Boleto;BA
+524;Persa;Medio;Sim;4;2348.4;Instagram;PIX;SP
+525;Siames;Medio;Nao;4;607.73;Loja Fisica;Cartao de Credito;BA
+526;Exotico;Medio;Sim;3;3134.25;Site;Boleto;CE
+527;Scottish Fold;Medio;Sim;2;5044.53;Instagram;Cartao de Credito;BA
+528;Ragdoll;Grande;Sim;4;4722.25;Instagram;Boleto;PE
+529;Persa;Medio;Sim;2;2705.01;Instagram;PIX;RS
+530;Siberiano;Grande;Sim;1;3697.92;Instagram;Cartao de Credito;DF
+531;British Shorthair;Medio;Sim;1;5479.57;Instagram;PIX;RJ
+532;Exotico;Medio;Sim;2;3439.59;Site;Cartao de Credito;PR
+533;SRD (Vira-lata);Medio;Nao;4;89.08;Loja Fisica;Cartao de Credito;PR
+534;Ragdoll;Grande;Sim;5;3950.87;Site;PIX;PR
+535;Maine Coon;Grande;Sim;1;6272.37;Instagram;Boleto;PR
+536;Ragdoll;Grande;Sim;5;4933.73;Instagram;Boleto;PE
+537;Exotico;Medio;Sim;1;2991.79;Instagram;Cartao de Credito;CE
+538;Bengal;Medio;Sim;4;3308.65;Instagram;Cartao de Credito;MG
+539;Bengal;Medio;Sim;4;4843.78;Loja Fisica;PIX;DF
+540;Persa;Medio;Sim;4;3346.01;Site;Cartao de Credito;RS
+541;Siberiano;Grande;Sim;4;3047.26;Loja Fisica;PIX;CE
+542;Siames;Medio;Nao;2;975.97;Site;PIX;SC
+543;Ragdoll;Grande;Sim;3;4010.59;Loja Fisica;Cartao de Credito;RS
+544;Munchkin;Pequeno;Sim;3;4665.63;Loja Fisica;PIX;SC
+545;Ragdoll;Grande;Sim;3;4830.98;Site;Cartao de Credito;RJ
+546;Maine Coon;Grande;Sim;3;6256.47;Loja Fisica;PIX;RJ
+547;Sphynx;Medio;Sim;3;5685.19;Loja Fisica;PIX;BA
+548;Ragdoll;Grande;Sim;3;3924.01;Loja Fisica;Boleto;PR
+549;Sphynx;Medio;Sim;3;5291.02;Loja Fisica;Boleto;RJ
+550;Maine Coon;Grande;Sim;2;5265.65;Instagram;Cartao de Credito;MG
+551;Scottish Fold;Medio;Sim;4;4340.21;Site;Cartao de Credito;SP
+552;Scottish Fold;Medio;Sim;5;5454.03;Loja Fisica;Boleto;PE
+553;SRD (Vira-lata);Medio;Nao;3;188.45;Site;Boleto;DF
+554;Angora;Medio;Nao;5;1020.18;Site;Cartao de Credito;RJ
+555;Maine Coon;Grande;Sim;4;4910.11;Instagram;Cartao de Credito;SC
+556;Maine Coon;Grande;Sim;3;5263.13;Instagram;Boleto;SC
+557;Maine Coon;Grande;Sim;5;5109.82;Loja Fisica;Cartao de Credito;RS
+558;Siames;Medio;Nao;3;767.03;Loja Fisica;Cartao de Credito;SP
+559;Bengal;Medio;Sim;4;4364.03;Instagram;PIX;DF
+560;British Shorthair;Medio;Sim;3;5160.71;Instagram;Boleto;RJ
+561;Maine Coon;Grande;Sim;5;4952.01;Instagram;PIX;RJ
+562;Scottish Fold;Medio;Sim;4;5393.73;Instagram;PIX;BA
+563;Maine Coon;Grande;Sim;1;6486.56;Site;PIX;DF
+564;Maine Coon;Grande;Sim;3;6253.81;Instagram;PIX;BA
+565;Siberiano;Grande;Sim;1;3476.09;Loja Fisica;Cartao de Credito;RS
+566;British Shorthair;Medio;Sim;4;4433.89;Instagram;Cartao de Credito;PR
+567;Siberiano;Grande;Sim;3;3003.32;Loja Fisica;Boleto;CE
+568;Scottish Fold;Medio;Sim;1;4696.56;Loja Fisica;Boleto;CE
+569;Exotico;Medio;Sim;2;3611.3;Site;Boleto;DF
+570;Munchkin;Pequeno;Sim;3;4302.23;Site;PIX;DF
+571;Exotico;Medio;Sim;5;3069.55;Instagram;Cartao de Credito;BA
+572;Persa;Medio;Sim;5;2783.66;Site;PIX;DF
+573;Siberiano;Grande;Sim;1;3670.6;Site;Cartao de Credito;SC
+574;Persa;Medio;Sim;2;2974.71;Loja Fisica;Cartao de Credito;SP
+575;Persa;Medio;Sim;3;2609.62;Site;Boleto;RS
+576;SRD (Vira-lata);Medio;Nao;5;159.49;Loja Fisica;Cartao de Credito;DF
+577;Angora;Medio;Nao;4;1307.13;Loja Fisica;PIX;MG
+578;Munchkin;Pequeno;Sim;3;4457.21;Instagram;PIX;DF
+579;Ragdoll;Grande;Sim;5;4279.33;Loja Fisica;PIX;RS
+580;Ragdoll;Grande;Sim;5;4050.94;Loja Fisica;Boleto;SC
+581;British Shorthair;Medio;Sim;5;4712.31;Loja Fisica;Boleto;DF
+582;Angora;Medio;Nao;4;930.14;Site;Cartao de Credito;RJ
+583;Exotico;Medio;Sim;2;2823.4;Loja Fisica;PIX;BA
+584;Persa;Medio;Sim;1;3456.71;Loja Fisica;Cartao de Credito;RJ
+585;Munchkin;Pequeno;Sim;1;4123.48;Instagram;Boleto;RS
+586;SRD (Vira-lata);Medio;Nao;3;118.18;Site;PIX;CE
+587;Angora;Medio;Nao;2;1435.9;Instagram;Boleto;DF
+588;Angora;Medio;Nao;5;1203.8;Loja Fisica;PIX;MG
+589;Siberiano;Grande;Sim;2;3218.7;Loja Fisica;Boleto;RJ
+590;Sphynx;Medio;Sim;1;6141.17;Loja Fisica;PIX;MG
+591;Bengal;Medio;Sim;1;4609.87;Site;Cartao de Credito;SP
+592;SRD (Vira-lata);Medio;Nao;5;52.5;Site;Boleto;RJ
+593;Siames;Medio;Nao;4;605.32;Instagram;Cartao de Credito;CE
+594;Bengal;Medio;Sim;1;3407.47;Loja Fisica;Cartao de Credito;CE
+595;Bengal;Medio;Sim;5;3545.97;Instagram;Boleto;PR
+596;SRD (Vira-lata);Medio;Nao;2;198.04;Loja Fisica;PIX;PR
+597;Munchkin;Pequeno;Sim;2;4201.19;Site;Boleto;RJ
+598;Persa;Medio;Sim;5;2856.73;Instagram;PIX;MG
+599;Siberiano;Grande;Sim;5;4191.07;Instagram;Cartao de Credito;PR
+600;Siberiano;Grande;Sim;1;3126.1;Site;Cartao de Credito;DF
+601;Munchkin;Pequeno;Sim;2;3666.1;Site;Cartao de Credito;SP
+602;Bengal;Medio;Sim;3;3672.01;Instagram;Boleto;RJ
+603;Siberiano;Grande;Sim;4;3149.03;Instagram;Boleto;PE
+604;British Shorthair;Medio;Sim;5;4017.7;Site;Cartao de Credito;SC
+605;Siberiano;Grande;Sim;4;3596.27;Loja Fisica;PIX;SC
+606;Maine Coon;Grande;Sim;4;4700.66;Site;PIX;MG
+607;SRD (Vira-lata);Medio;Nao;5;117.7;Site;Cartao de Credito;RJ
+608;Bengal;Medio;Sim;2;3668.29;Site;Cartao de Credito;CE
+609;Maine Coon;Grande;Sim;1;5638.12;Loja Fisica;Cartao de Credito;CE
+610;Sphynx;Medio;Sim;3;6321.77;Site;PIX;MG
+611;Siberiano;Grande;Sim;4;3202.43;Instagram;Boleto;SC
+612;Scottish Fold;Medio;Sim;1;4811.17;Site;Boleto;DF
+613;British Shorthair;Medio;Sim;1;5162.17;Site;PIX;RS
+614;Scottish Fold;Medio;Sim;2;4920.37;Instagram;PIX;MG
+615;Sphynx;Medio;Sim;1;5269.46;Instagram;Cartao de Credito;MG
+616;Siberiano;Grande;Sim;2;3893.56;Instagram;Cartao de Credito;DF
+617;Munchkin;Pequeno;Sim;4;4190.45;Instagram;Boleto;PE
+618;Sphynx;Medio;Sim;1;5087.7;Loja Fisica;Cartao de Credito;MG
+619;Siberiano;Grande;Sim;4;3728.82;Site;PIX;RJ
+620;Scottish Fold;Medio;Sim;4;4594.62;Site;Cartao de Credito;CE
+621;British Shorthair;Medio;Sim;1;4642.52;Instagram;Boleto;PE
+622;British Shorthair;Medio;Sim;3;4795.02;Instagram;Boleto;PE
+623;Angora;Medio;Nao;4;938.41;Site;Cartao de Credito;DF
+624;Angora;Medio;Nao;5;1165.47;Instagram;PIX;RJ
+625;Munchkin;Pequeno;Sim;5;3885.23;Site;Boleto;DF
+626;Sphynx;Medio;Sim;4;6386.89;Site;Boleto;SC
+627;Persa;Medio;Sim;4;2430.38;Site;Cartao de Credito;RJ
+628;British Shorthair;Medio;Sim;4;4105.65;Instagram;PIX;PR
+629;Angora;Medio;Nao;5;1166.67;Site;Cartao de Credito;SP
+630;Munchkin;Pequeno;Sim;5;4714.79;Loja Fisica;PIX;MG
+631;Angora;Medio;Nao;2;1458.26;Site;Cartao de Credito;PE
+632;Siberiano;Grande;Sim;4;3489.29;Instagram;Boleto;RJ
+633;Persa;Medio;Sim;3;3341.14;Instagram;PIX;PR
+634;SRD (Vira-lata);Medio;Nao;3;116.19;Site;Cartao de Credito;CE
+635;Bengal;Medio;Sim;4;4646.27;Instagram;Boleto;SC
+636;Exotico;Medio;Sim;4;2883.35;Site;Cartao de Credito;CE
+637;Angora;Medio;Nao;4;1153.74;Loja Fisica;Boleto;SC
+638;Persa;Medio;Sim;4;3392.48;Instagram;Boleto;DF
+639;Sphynx;Medio;Sim;5;5832.29;Instagram;Cartao de Credito;PR
+640;Angora;Medio;Nao;3;994.77;Instagram;PIX;MG
+641;Bengal;Medio;Sim;1;4496.66;Loja Fisica;PIX;BA
+642;Bengal;Medio;Sim;5;4457.99;Site;PIX;RJ
+643;Maine Coon;Grande;Sim;4;5374.53;Loja Fisica;PIX;MG
+644;Bengal;Medio;Sim;5;4213.09;Instagram;Boleto;RJ
+645;Scottish Fold;Medio;Sim;1;5158.55;Site;Boleto;RS
+646;Ragdoll;Grande;Sim;1;3887.32;Loja Fisica;PIX;PR
+647;Exotico;Medio;Sim;5;3403.91;Site;Boleto;RS
+648;British Shorthair;Medio;Sim;2;4205.74;Site;PIX;MG
+649;Maine Coon;Grande;Sim;1;4865.79;Site;PIX;RJ
+650;Angora;Medio;Nao;1;1388.42;Loja Fisica;Boleto;SC
+651;Maine Coon;Grande;Sim;5;6156.4;Instagram;PIX;SC
+652;Persa;Medio;Sim;5;2704.45;Site;Boleto;BA
+653;Maine Coon;Grande;Sim;2;4720.75;Loja Fisica;Cartao de Credito;MG
+654;Ragdoll;Grande;Sim;3;4654.08;Site;Cartao de Credito;RJ
+655;Exotico;Medio;Sim;2;2994.28;Loja Fisica;Cartao de Credito;CE
+656;Exotico;Medio;Sim;4;3690.3;Loja Fisica;Cartao de Credito;BA
+657;Scottish Fold;Medio;Sim;2;4815.98;Site;Cartao de Credito;PR
+658;Maine Coon;Grande;Sim;2;4920.45;Loja Fisica;PIX;SC
+659;Siames;Medio;Nao;1;1035.74;Site;PIX;PR
+660;Siberiano;Grande;Sim;4;3940.18;Loja Fisica;Boleto;CE
+661;Munchkin;Pequeno;Sim;5;4272.61;Site;Cartao de Credito;RS
+662;Exotico;Medio;Sim;1;2808.18;Site;Boleto;RS
+663;British Shorthair;Medio;Sim;2;4220.51;Loja Fisica;Cartao de Credito;SC
+664;Bengal;Medio;Sim;1;4923.77;Instagram;PIX;PR
+665;Sphynx;Medio;Sim;4;6426.98;Instagram;Boleto;SC
+666;Sphynx;Medio;Sim;1;6514.5;Instagram;Cartao de Credito;BA
+667;Scottish Fold;Medio;Sim;3;5055.77;Loja Fisica;Boleto;PR
+668;Siames;Medio;Nao;5;885.37;Loja Fisica;PIX;RJ
+669;Siames;Medio;Nao;3;789.88;Instagram;Boleto;BA
+670;Persa;Medio;Sim;3;3026.18;Site;Cartao de Credito;DF
+671;Siames;Medio;Nao;2;796.86;Loja Fisica;PIX;SC
+672;Ragdoll;Grande;Sim;5;4474.1;Instagram;Cartao de Credito;CE
+673;Angora;Medio;Nao;4;1134.65;Site;Boleto;BA
+674;Scottish Fold;Medio;Sim;4;5682.4;Instagram;Cartao de Credito;SC
+675;Bengal;Medio;Sim;5;3581.65;Loja Fisica;PIX;MG
+676;SRD (Vira-lata);Medio;Nao;4;198.3;Instagram;Boleto;SC
+677;Exotico;Medio;Sim;3;2929.29;Site;Boleto;RJ
+678;Sphynx;Medio;Sim;1;5876.57;Instagram;Boleto;CE
+679;Bengal;Medio;Sim;4;3754.74;Site;PIX;RS
+680;British Shorthair;Medio;Sim;4;4311.43;Site;Boleto;PR
+681;Exotico;Medio;Sim;5;3139.26;Site;Cartao de Credito;SC
+682;Maine Coon;Grande;Sim;5;6278.89;Loja Fisica;Boleto;PR
+683;Persa;Medio;Sim;5;2334.08;Loja Fisica;Boleto;RJ
+684;Bengal;Medio;Sim;4;3308.1;Instagram;PIX;PR
+685;Scottish Fold;Medio;Sim;3;4418.49;Instagram;PIX;BA
+686;Scottish Fold;Medio;Sim;1;5614.59;Instagram;PIX;SP
+687;Munchkin;Pequeno;Sim;4;3937.03;Site;Boleto;RJ
+688;Sphynx;Medio;Sim;3;6448.62;Site;Boleto;PE
+689;Scottish Fold;Medio;Sim;2;5476.9;Site;Boleto;PE
+690;Scottish Fold;Medio;Sim;1;5511.36;Instagram;PIX;CE
+691;Angora;Medio;Nao;3;1235.66;Site;Cartao de Credito;SP
+692;Maine Coon;Grande;Sim;1;5002.74;Instagram;Cartao de Credito;RJ
+693;Munchkin;Pequeno;Sim;4;3782.29;Loja Fisica;PIX;DF
+694;Munchkin;Pequeno;Sim;3;4109.24;Loja Fisica;Boleto;DF
+695;Ragdoll;Grande;Sim;1;5001.99;Instagram;Cartao de Credito;BA
+696;Scottish Fold;Medio;Sim;3;5131.04;Instagram;Cartao de Credito;PE
+697;British Shorthair;Medio;Sim;1;4791.84;Instagram;Cartao de Credito;MG
+698;Persa;Medio;Sim;1;3122.06;Loja Fisica;Boleto;BA
+699;SRD (Vira-lata);Medio;Nao;3;114.95;Loja Fisica;PIX;MG
+700;SRD (Vira-lata);Medio;Nao;4;169.78;Site;Cartao de Credito;PE
+701;Bengal;Medio;Sim;4;3898.93;Loja Fisica;Boleto;SC
+702;Bengal;Medio;Sim;5;4243.42;Instagram;Cartao de Credito;MG
+703;SRD (Vira-lata);Medio;Nao;3;78.25;Instagram;Boleto;SP
+704;Siberiano;Grande;Sim;3;3066.25;Instagram;Boleto;SP
+705;Persa;Medio;Sim;2;3222.83;Instagram;Cartao de Credito;SC
+706;Bengal;Medio;Sim;3;4847.14;Site;Boleto;MG
+707;Scottish Fold;Medio;Sim;3;4280.71;Loja Fisica;PIX;MG
+708;Siberiano;Grande;Sim;2;3631.24;Site;Cartao de Credito;SC
+709;Scottish Fold;Medio;Sim;3;5559.43;Loja Fisica;Boleto;SP
+710;Persa;Medio;Sim;1;2681.2;Site;Cartao de Credito;PR
+711;Munchkin;Pequeno;Sim;4;3601.49;Site;PIX;BA
+712;Scottish Fold;Medio;Sim;2;5037.47;Instagram;PIX;SP
+713;Ragdoll;Grande;Sim;5;4759.8;Loja Fisica;PIX;PR
+714;Siberiano;Grande;Sim;4;3000.43;Instagram;PIX;DF
+715;Scottish Fold;Medio;Sim;3;4779.97;Site;Boleto;PE
+716;Maine Coon;Grande;Sim;2;5278.95;Loja Fisica;Cartao de Credito;MG
+717;Sphynx;Medio;Sim;1;6148.02;Site;PIX;DF
+718;Munchkin;Pequeno;Sim;2;4466.83;Site;Boleto;RS
+719;Angora;Medio;Nao;1;1408.91;Site;Cartao de Credito;MG
+720;Ragdoll;Grande;Sim;1;4881.82;Loja Fisica;Cartao de Credito;SP
+721;Angora;Medio;Nao;5;1221.06;Loja Fisica;Cartao de Credito;RJ
+722;Bengal;Medio;Sim;1;3877.02;Site;PIX;SP
+723;Persa;Medio;Sim;3;3260.09;Loja Fisica;PIX;PR
+724;Siberiano;Grande;Sim;5;4081.07;Site;PIX;PE
+725;Bengal;Medio;Sim;4;4411.46;Site;PIX;MG
+726;Siames;Medio;Nao;2;1049.0;Site;Cartao de Credito;SC
+727;Sphynx;Medio;Sim;5;6939.93;Loja Fisica;PIX;BA
+728;SRD (Vira-lata);Medio;Nao;3;112.77;Instagram;PIX;PR
+729;British Shorthair;Medio;Sim;1;5393.11;Loja Fisica;Boleto;MG
+730;Exotico;Medio;Sim;1;2963.25;Site;Cartao de Credito;SC
+731;SRD (Vira-lata);Medio;Nao;5;170.77;Loja Fisica;Cartao de Credito;PE
+732;Munchkin;Pequeno;Sim;1;3502.94;Loja Fisica;Cartao de Credito;CE
+733;Scottish Fold;Medio;Sim;3;4425.04;Loja Fisica;Boleto;RS
+734;Exotico;Medio;Sim;2;3460.46;Instagram;Cartao de Credito;CE
+735;Maine Coon;Grande;Sim;2;4600.31;Loja Fisica;Cartao de Credito;RS
+736;Munchkin;Pequeno;Sim;4;3655.56;Site;Boleto;PR
+737;Angora;Medio;Nao;2;945.64;Site;PIX;RJ
+738;Siames;Medio;Nao;3;758.52;Site;Boleto;SP
+739;Siberiano;Grande;Sim;1;3188.17;Loja Fisica;PIX;DF
+740;Sphynx;Medio;Sim;4;6533.25;Instagram;Cartao de Credito;RJ
+741;Exotico;Medio;Sim;5;3216.54;Site;Cartao de Credito;RS
+742;Maine Coon;Grande;Sim;1;5843.81;Site;Boleto;RS
+743;Bengal;Medio;Sim;3;4788.97;Loja Fisica;Cartao de Credito;RJ
+744;Persa;Medio;Sim;3;3392.05;Instagram;PIX;PR
+745;Bengal;Medio;Sim;4;4769.54;Instagram;Boleto;DF
+746;Maine Coon;Grande;Sim;3;4812.58;Loja Fisica;PIX;MG
+747;Munchkin;Pequeno;Sim;1;3590.3;Site;PIX;BA
+748;SRD (Vira-lata);Medio;Nao;4;84.16;Loja Fisica;Cartao de Credito;CE
+749;Persa;Medio;Sim;2;2566.49;Site;PIX;PR
+750;Munchkin;Pequeno;Sim;2;4776.11;Loja Fisica;Boleto;RJ
+751;Exotico;Medio;Sim;4;3088.17;Instagram;Cartao de Credito;PR
+752;Siberiano;Grande;Sim;5;3704.73;Loja Fisica;PIX;SC
+753;Sphynx;Medio;Sim;2;6011.8;Loja Fisica;Boleto;MG
+754;Siberiano;Grande;Sim;2;3428.88;Loja Fisica;Cartao de Credito;SP
+755;Scottish Fold;Medio;Sim;3;5204.16;Loja Fisica;Cartao de Credito;RS
+756;Maine Coon;Grande;Sim;2;4631.96;Site;PIX;DF
+757;Scottish Fold;Medio;Sim;3;5213.24;Loja Fisica;Boleto;SC
+758;Maine Coon;Grande;Sim;3;5108.19;Instagram;PIX;CE
+759;British Shorthair;Medio;Sim;2;5146.37;Instagram;Boleto;BA
+760;Sphynx;Medio;Sim;4;5568.47;Site;Cartao de Credito;BA
+761;Maine Coon;Grande;Sim;1;4640.0;Site;Cartao de Credito;CE
+762;British Shorthair;Medio;Sim;2;5241.3;Instagram;Cartao de Credito;CE
+763;Siberiano;Grande;Sim;1;3259.95;Instagram;Cartao de Credito;MG
+764;Persa;Medio;Sim;4;3293.39;Instagram;Boleto;SC
+765;Ragdoll;Grande;Sim;1;4610.71;Instagram;PIX;BA
+766;Siames;Medio;Nao;3;635.94;Instagram;Boleto;MG
+767;Munchkin;Pequeno;Sim;2;4312.65;Instagram;PIX;PE
+768;Angora;Medio;Nao;3;1028.2;Site;Cartao de Credito;SC
+769;Sphynx;Medio;Sim;3;6505.88;Instagram;Cartao de Credito;PE
+770;Maine Coon;Grande;Sim;4;5437.1;Site;Boleto;PE
+771;SRD (Vira-lata);Medio;Nao;4;155.74;Instagram;PIX;BA
+772;Bengal;Medio;Sim;1;4265.65;Loja Fisica;PIX;BA
+773;Bengal;Medio;Sim;3;4278.52;Site;PIX;PE
+774;Munchkin;Pequeno;Sim;2;4611.56;Site;PIX;DF
+775;SRD (Vira-lata);Medio;Nao;2;102.97;Instagram;Cartao de Credito;MG
+776;Exotico;Medio;Sim;4;3591.85;Loja Fisica;Boleto;PE
+777;Ragdoll;Grande;Sim;4;4406.0;Loja Fisica;PIX;RS
+778;Bengal;Medio;Sim;2;4598.12;Site;Cartao de Credito;MG
+779;Maine Coon;Grande;Sim;5;5958.2;Site;Cartao de Credito;CE
+780;Siberiano;Grande;Sim;5;3292.28;Site;Boleto;RS
+781;British Shorthair;Medio;Sim;5;4412.76;Instagram;Cartao de Credito;PR
+782;British Shorthair;Medio;Sim;2;5110.35;Loja Fisica;Boleto;RS
+783;Exotico;Medio;Sim;5;3516.54;Instagram;PIX;RS
+784;Siames;Medio;Nao;5;1060.4;Loja Fisica;Boleto;DF
+785;Persa;Medio;Sim;2;3332.83;Instagram;Boleto;MG
+786;British Shorthair;Medio;Sim;3;4569.44;Site;Boleto;PE
+787;Exotico;Medio;Sim;1;3748.4;Instagram;Boleto;BA
+788;SRD (Vira-lata);Medio;Nao;2;188.84;Site;Cartao de Credito;BA
+789;Angora;Medio;Nao;2;1192.19;Instagram;Boleto;SC
+790;Angora;Medio;Nao;4;1385.75;Site;Boleto;RJ
+791;Sphynx;Medio;Sim;1;5930.91;Loja Fisica;Boleto;SP
+792;Sphynx;Medio;Sim;4;5187.19;Loja Fisica;PIX;RJ
+793;British Shorthair;Medio;Sim;3;4067.54;Loja Fisica;PIX;PE
+794;Bengal;Medio;Sim;4;4689.84;Loja Fisica;PIX;RJ
+795;Exotico;Medio;Sim;3;2959.14;Loja Fisica;PIX;RS
+796;Angora;Medio;Nao;2;1224.53;Site;Cartao de Credito;PE
+797;Angora;Medio;Nao;3;993.47;Site;Cartao de Credito;BA
+798;Siberiano;Grande;Sim;1;3183.51;Loja Fisica;PIX;PE
+799;Exotico;Medio;Sim;4;3050.96;Instagram;Boleto;RS
+800;Ragdoll;Grande;Sim;5;4457.4;Instagram;Cartao de Credito;RS
+801;Munchkin;Pequeno;Sim;4;4331.18;Loja Fisica;Boleto;SP
+802;SRD (Vira-lata);Medio;Nao;2;75.68;Site;Boleto;PR
+803;British Shorthair;Medio;Sim;3;5128.98;Instagram;Cartao de Credito;CE
+804;Munchkin;Pequeno;Sim;2;4525.87;Loja Fisica;Boleto;SC
+805;British Shorthair;Medio;Sim;3;4144.1;Loja Fisica;Boleto;DF
+806;Angora;Medio;Nao;3;1460.75;Loja Fisica;Boleto;SP
+807;Bengal;Medio;Sim;5;3448.21;Instagram;Boleto;SP
+808;Maine Coon;Grande;Sim;1;5888.41;Instagram;PIX;PE
+809;Siberiano;Grande;Sim;4;3933.8;Instagram;Boleto;DF
+810;Siberiano;Grande;Sim;3;4077.91;Loja Fisica;Cartao de Credito;SC
+811;SRD (Vira-lata);Medio;Nao;5;193.88;Instagram;Boleto;SP
+812;British Shorthair;Medio;Sim;3;4319.32;Instagram;Cartao de Credito;SC
+813;Angora;Medio;Nao;3;1320.91;Loja Fisica;Boleto;RJ
+814;Maine Coon;Grande;Sim;3;6189.37;Loja Fisica;Cartao de Credito;SP
+815;Siberiano;Grande;Sim;4;3009.29;Loja Fisica;Cartao de Credito;RJ
+816;Angora;Medio;Nao;3;997.62;Instagram;Cartao de Credito;PE
+817;Bengal;Medio;Sim;5;3411.93;Site;PIX;BA
+818;Scottish Fold;Medio;Sim;4;5072.72;Site;Cartao de Credito;MG
+819;Scottish Fold;Medio;Sim;4;5422.76;Instagram;Boleto;DF
+820;Bengal;Medio;Sim;1;4039.87;Instagram;Boleto;RS
+821;British Shorthair;Medio;Sim;2;4200.17;Site;Cartao de Credito;SP
+822;Exotico;Medio;Sim;5;3225.09;Instagram;Boleto;RJ
+823;Persa;Medio;Sim;5;2481.18;Site;PIX;BA
+824;Siames;Medio;Nao;5;774.65;Site;Cartao de Credito;BA
+825;SRD (Vira-lata);Medio;Nao;3;145.72;Site;Cartao de Credito;DF
+826;Siberiano;Grande;Sim;2;3148.45;Loja Fisica;PIX;RJ
+827;Scottish Fold;Medio;Sim;2;4577.09;Instagram;Cartao de Credito;SP
+828;Bengal;Medio;Sim;2;4403.11;Loja Fisica;Boleto;RJ
+829;Maine Coon;Grande;Sim;1;6019.06;Site;Boleto;BA
+830;Bengal;Medio;Sim;3;3437.23;Site;Boleto;SC
+831;British Shorthair;Medio;Sim;1;5062.4;Loja Fisica;Cartao de Credito;SC
+832;Munchkin;Pequeno;Sim;1;3726.24;Loja Fisica;Boleto;PE
+833;British Shorthair;Medio;Sim;4;5432.14;Instagram;PIX;DF
+834;Maine Coon;Grande;Sim;2;6002.12;Site;Boleto;DF
+835;Scottish Fold;Medio;Sim;2;4365.05;Loja Fisica;PIX;PR
+836;Bengal;Medio;Sim;1;4064.64;Site;Boleto;SP
+837;Angora;Medio;Nao;5;1258.12;Site;PIX;RS
+838;Siberiano;Grande;Sim;4;3122.72;Site;Boleto;PE
+839;Persa;Medio;Sim;1;2462.85;Loja Fisica;Cartao de Credito;MG
+840;Maine Coon;Grande;Sim;5;5255.41;Loja Fisica;Cartao de Credito;PE
+841;British Shorthair;Medio;Sim;2;5220.71;Loja Fisica;Cartao de Credito;DF
+842;Angora;Medio;Nao;1;1372.54;Instagram;Cartao de Credito;PE
+843;Sphynx;Medio;Sim;3;5003.88;Site;Boleto;MG
+844;British Shorthair;Medio;Sim;5;4892.79;Instagram;Boleto;RS
+845;British Shorthair;Medio;Sim;2;4686.81;Site;Cartao de Credito;RJ
+846;SRD (Vira-lata);Medio;Nao;2;111.83;Loja Fisica;PIX;DF
+847;Siberiano;Grande;Sim;3;3574.36;Loja Fisica;PIX;SC
+848;Exotico;Medio;Sim;5;3522.02;Site;Boleto;MG
+849;SRD (Vira-lata);Medio;Nao;4;79.87;Site;Boleto;BA
+850;SRD (Vira-lata);Medio;Nao;1;101.93;Loja Fisica;Boleto;MG
+851;Angora;Medio;Nao;5;1256.54;Instagram;PIX;SC
+852;Munchkin;Pequeno;Sim;2;4722.86;Instagram;Cartao de Credito;SC
+853;Siberiano;Grande;Sim;2;3197.35;Instagram;Cartao de Credito;SP
+854;Exotico;Medio;Sim;3;2877.46;Instagram;Cartao de Credito;PE
+855;Persa;Medio;Sim;4;3438.4;Site;Boleto;DF
+856;Siames;Medio;Nao;2;799.35;Loja Fisica;Boleto;SC
+857;Angora;Medio;Nao;2;1472.61;Loja Fisica;Cartao de Credito;BA
+858;British Shorthair;Medio;Sim;1;4301.01;Loja Fisica;Cartao de Credito;SC
+859;Maine Coon;Grande;Sim;1;4889.22;Loja Fisica;Boleto;SP
+860;Bengal;Medio;Sim;4;3460.58;Loja Fisica;Cartao de Credito;SC
+861;Angora;Medio;Nao;4;1312.32;Site;PIX;MG
+862;British Shorthair;Medio;Sim;4;4711.13;Site;Boleto;SC
+863;Scottish Fold;Medio;Sim;1;5758.36;Site;Cartao de Credito;DF
+864;Siberiano;Grande;Sim;5;3598.91;Instagram;Cartao de Credito;BA
+865;Maine Coon;Grande;Sim;5;5672.77;Instagram;Boleto;SC
+866;SRD (Vira-lata);Medio;Nao;2;106.99;Loja Fisica;Cartao de Credito;DF
+867;Exotico;Medio;Sim;2;3339.12;Site;Cartao de Credito;PE
+868;Scottish Fold;Medio;Sim;1;4984.93;Loja Fisica;PIX;MG
+869;Persa;Medio;Sim;3;2795.91;Site;Boleto;PR
+870;Exotico;Medio;Sim;5;3403.58;Instagram;PIX;MG
+871;Maine Coon;Grande;Sim;2;6389.94;Loja Fisica;Cartao de Credito;MG
+872;Exotico;Medio;Sim;5;3250.22;Site;PIX;RJ
+873;Sphynx;Medio;Sim;2;6108.52;Instagram;Cartao de Credito;DF
+874;Siames;Medio;Nao;5;788.09;Instagram;Cartao de Credito;CE
+875;Munchkin;Pequeno;Sim;4;3931.21;Loja Fisica;PIX;PE
+876;Sphynx;Medio;Sim;4;5956.35;Site;Boleto;RJ
+877;Persa;Medio;Sim;2;3185.46;Loja Fisica;PIX;SC
+878;Scottish Fold;Medio;Sim;5;5546.37;Instagram;PIX;PE
+879;Munchkin;Pequeno;Sim;5;4579.45;Site;Cartao de Credito;SP
+880;Scottish Fold;Medio;Sim;3;5585.85;Loja Fisica;Cartao de Credito;BA
+881;Angora;Medio;Nao;3;1205.0;Loja Fisica;Boleto;DF
+882;Munchkin;Pequeno;Sim;4;3885.52;Site;Boleto;SC
+883;Siberiano;Grande;Sim;5;4127.06;Site;Cartao de Credito;SP
+884;Munchkin;Pequeno;Sim;4;4784.7;Site;Boleto;SC
+885;Siames;Medio;Nao;3;853.7;Site;Boleto;SP
+886;British Shorthair;Medio;Sim;2;4355.63;Loja Fisica;Cartao de Credito;MG
+887;SRD (Vira-lata);Medio;Nao;5;178.87;Instagram;Cartao de Credito;PE
+888;Ragdoll;Grande;Sim;5;5189.53;Site;Boleto;CE
+889;Scottish Fold;Medio;Sim;3;4312.18;Instagram;PIX;MG
+890;Scottish Fold;Medio;Sim;5;5593.05;Loja Fisica;Cartao de Credito;SC
+891;Angora;Medio;Nao;5;1331.77;Instagram;Boleto;DF
+892;Exotico;Medio;Sim;1;2820.67;Instagram;Boleto;RS
+893;Siames;Medio;Nao;1;615.31;Instagram;Boleto;DF
+894;SRD (Vira-lata);Medio;Nao;1;101.58;Instagram;PIX;RJ
+895;Bengal;Medio;Sim;3;4648.79;Site;Cartao de Credito;MG
+896;Scottish Fold;Medio;Sim;2;4442.53;Site;PIX;SC
+897;Persa;Medio;Sim;5;2250.95;Loja Fisica;Boleto;DF
+898;Ragdoll;Grande;Sim;1;4368.56;Loja Fisica;Cartao de Credito;PE
+899;Maine Coon;Grande;Sim;1;6012.71;Site;PIX;CE
+900;Ragdoll;Grande;Sim;4;4474.17;Loja Fisica;Cartao de Credito;PE
+901;Exotico;Medio;Sim;2;3452.75;Site;Boleto;SP
+902;Siames;Medio;Nao;2;926.13;Instagram;Boleto;RJ
+903;Angora;Medio;Nao;2;905.25;Loja Fisica;Boleto;PR
+904;Maine Coon;Grande;Sim;4;4866.48;Loja Fisica;Boleto;RJ
+905;Persa;Medio;Sim;3;3321.2;Site;PIX;MG
+906;SRD (Vira-lata);Medio;Nao;1;55.21;Loja Fisica;Boleto;CE
+907;Angora;Medio;Nao;1;1194.86;Instagram;Boleto;RS
+908;Persa;Medio;Sim;1;3184.54;Instagram;PIX;PE
+909;British Shorthair;Medio;Sim;5;4900.89;Site;PIX;CE
+910;Siberiano;Grande;Sim;5;3255.48;Loja Fisica;Cartao de Credito;SC
+911;Munchkin;Pequeno;Sim;3;4411.62;Site;Boleto;MG
+912;Exotico;Medio;Sim;5;3594.0;Instagram;Boleto;MG
+913;SRD (Vira-lata);Medio;Nao;3;146.91;Site;Cartao de Credito;RS
+914;Siberiano;Grande;Sim;1;3794.59;Instagram;Boleto;CE
+915;Scottish Fold;Medio;Sim;5;5009.8;Instagram;PIX;DF
+916;Ragdoll;Grande;Sim;4;4477.36;Instagram;PIX;DF
+917;Exotico;Medio;Sim;2;3412.47;Instagram;Cartao de Credito;SP
+918;Siberiano;Grande;Sim;3;4158.57;Instagram;Boleto;RS
+919;Siberiano;Grande;Sim;3;4104.41;Instagram;PIX;PE
+920;Persa;Medio;Sim;1;3281.32;Loja Fisica;Boleto;PR
+921;Scottish Fold;Medio;Sim;4;4418.27;Site;PIX;SP
+922;Sphynx;Medio;Sim;1;5308.55;Instagram;Boleto;MG
+923;Scottish Fold;Medio;Sim;4;4611.23;Site;PIX;MG
+924;Siames;Medio;Nao;2;999.59;Site;Cartao de Credito;DF
+925;Siames;Medio;Nao;4;962.44;Instagram;PIX;PE
+926;Siberiano;Grande;Sim;1;4136.31;Loja Fisica;Boleto;SC
+927;Scottish Fold;Medio;Sim;1;4956.67;Site;Boleto;MG
+928;Persa;Medio;Sim;3;2669.6;Instagram;PIX;CE
+929;Exotico;Medio;Sim;3;3560.61;Site;Boleto;DF
+930;Maine Coon;Grande;Sim;2;5924.36;Instagram;Cartao de Credito;PR
+931;Bengal;Medio;Sim;2;3373.29;Loja Fisica;Boleto;RS
+932;Angora;Medio;Nao;4;957.61;Site;PIX;RS
+933;Siames;Medio;Nao;4;844.93;Site;PIX;SP
+934;Siames;Medio;Nao;4;971.15;Site;Boleto;MG
+935;Siberiano;Grande;Sim;3;3392.07;Loja Fisica;Boleto;RJ
+936;Persa;Medio;Sim;5;2345.1;Site;PIX;DF
+937;Siberiano;Grande;Sim;4;3750.03;Loja Fisica;PIX;SP
+938;SRD (Vira-lata);Medio;Nao;4;185.74;Site;PIX;BA
+939;Angora;Medio;Nao;2;1423.29;Site;Boleto;RS
+940;Exotico;Medio;Sim;4;2819.97;Loja Fisica;Cartao de Credito;RJ
+941;Siames;Medio;Nao;4;819.64;Loja Fisica;PIX;CE
+942;Bengal;Medio;Sim;2;4263.49;Loja Fisica;Cartao de Credito;RJ
+943;Maine Coon;Grande;Sim;2;4793.18;Instagram;PIX;SC
+944;Ragdoll;Grande;Sim;5;4709.02;Instagram;Boleto;CE
+945;Ragdoll;Grande;Sim;5;5066.87;Instagram;PIX;DF
+946;British Shorthair;Medio;Sim;2;4331.54;Instagram;Boleto;PE
+947;Persa;Medio;Sim;4;2906.2;Loja Fisica;Cartao de Credito;SC
+948;Maine Coon;Grande;Sim;3;5865.68;Site;Cartao de Credito;DF
+949;Maine Coon;Grande;Sim;2;5148.04;Loja Fisica;Boleto;PR
+950;Angora;Medio;Nao;2;998.78;Instagram;PIX;PR
+951;Maine Coon;Grande;Sim;1;6045.63;Instagram;PIX;PE
+952;British Shorthair;Medio;Sim;4;5183.5;Loja Fisica;PIX;RS
+953;SRD (Vira-lata);Medio;Nao;1;130.54;Loja Fisica;PIX;MG
+954;Maine Coon;Grande;Sim;4;5334.25;Loja Fisica;Boleto;BA
+955;Siberiano;Grande;Sim;1;3132.59;Instagram;Boleto;PR
+956;British Shorthair;Medio;Sim;2;4579.85;Loja Fisica;Boleto;SP
+957;Munchkin;Pequeno;Sim;5;4691.43;Loja Fisica;Boleto;RS
+958;British Shorthair;Medio;Sim;5;4308.96;Instagram;Boleto;SC
+959;Angora;Medio;Nao;3;1105.0;Loja Fisica;Cartao de Credito;BA
+960;Persa;Medio;Sim;5;3478.14;Loja Fisica;Cartao de Credito;SP
+961;Persa;Medio;Sim;1;3235.21;Loja Fisica;Cartao de Credito;RJ
+962;Siames;Medio;Nao;3;797.0;Instagram;Boleto;SC
+963;SRD (Vira-lata);Medio;Nao;2;96.07;Loja Fisica;Boleto;PR
+964;Bengal;Medio;Sim;4;4623.35;Loja Fisica;PIX;SC
+965;Scottish Fold;Medio;Sim;1;5008.27;Site;PIX;SC
+966;Persa;Medio;Sim;5;2993.3;Site;Boleto;MG
+967;Sphynx;Medio;Sim;1;5784.02;Loja Fisica;Boleto;SP
+968;Scottish Fold;Medio;Sim;5;4742.17;Loja Fisica;PIX;PE
+969;Sphynx;Medio;Sim;5;5115.86;Instagram;Boleto;PR
+970;Scottish Fold;Medio;Sim;1;4628.78;Site;Boleto;SC
+971;Ragdoll;Grande;Sim;4;4866.01;Instagram;Boleto;PE
+972;Munchkin;Pequeno;Sim;3;4404.23;Loja Fisica;Cartao de Credito;DF
+973;Exotico;Medio;Sim;1;3693.3;Instagram;Cartao de Credito;SC
+974;Exotico;Medio;Sim;2;3468.0;Instagram;PIX;SC
+975;Bengal;Medio;Sim;3;3891.88;Instagram;Cartao de Credito;CE
+976;Sphynx;Medio;Sim;1;5657.44;Site;Boleto;PE
+977;Persa;Medio;Sim;2;3401.42;Loja Fisica;Boleto;PR
+978;Ragdoll;Grande;Sim;2;4653.85;Instagram;Boleto;PR
+979;Siames;Medio;Nao;4;951.52;Site;PIX;SP
+980;Maine Coon;Grande;Sim;2;4594.52;Site;Boleto;BA
+981;Ragdoll;Grande;Sim;3;4572.59;Site;Cartao de Credito;BA
+982;Ragdoll;Grande;Sim;4;4089.78;Loja Fisica;PIX;SC
+983;Scottish Fold;Medio;Sim;1;4970.64;Loja Fisica;Boleto;RS
+984;Bengal;Medio;Sim;5;3642.93;Loja Fisica;Cartao de Credito;BA
+985;Persa;Medio;Sim;3;3063.53;Site;PIX;CE
+986;Munchkin;Pequeno;Sim;3;3858.76;Loja Fisica;Boleto;RS
+987;Sphynx;Medio;Sim;5;6131.47;Instagram;Cartao de Credito;PR
+988;Siberiano;Grande;Sim;2;3283.03;Instagram;Cartao de Credito;PR
+989;Maine Coon;Grande;Sim;1;6495.09;Site;Cartao de Credito;PR
+990;Exotico;Medio;Sim;1;2806.54;Site;Cartao de Credito;DF
+991;Maine Coon;Grande;Sim;2;5541.58;Instagram;Boleto;SC
+992;Angora;Medio;Nao;3;1318.97;Instagram;PIX;PE
+993;Ragdoll;Grande;Sim;4;4710.42;Loja Fisica;Cartao de Credito;DF
+994;Persa;Medio;Sim;4;2644.93;Loja Fisica;Boleto;RJ
+995;SRD (Vira-lata);Medio;Nao;4;55.6;Loja Fisica;Cartao de Credito;CE
+996;Siberiano;Grande;Sim;1;4031.71;Site;Cartao de Credito;DF
+997;Sphynx;Medio;Sim;1;5934.04;Loja Fisica;Boleto;MG
+998;Ragdoll;Grande;Sim;1;4976.89;Instagram;Boleto;PR
+999;Exotico;Medio;Sim;2;3756.03;Instagram;Cartao de Credito;SP
+1000;SRD (Vira-lata);Medio;Nao;2;59.4;Loja Fisica;Boleto;PR
