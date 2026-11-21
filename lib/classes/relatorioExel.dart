@@ -72,19 +72,19 @@ class RelatorioExel extends Relatorio {
         produtoMaisVendido = produto;
         vendedorMaiorVendas = vendedor;
       }
-      for (var prod in produtosGeral.keys) {
-        int quantidade = produtosGeral[prod]!;
-        if (quantidade < qtdMenorProdutoVendido) {
-          qtdMenorProdutoVendido = quantidade;
-          produtoMenosVendido = produto;
-        }
+    }
+    for (var prod in produtosGeral.keys) {
+      int quantidade = produtosGeral[prod]!;
+      if (quantidade < qtdMenorProdutoVendido) {
+        qtdMenorProdutoVendido = quantidade;
+        produtoMenosVendido = prod;
       }
-      for (var vend in vendedoresGeral.keys) {
-        int quantidade = vendedoresGeral[vend]!;
-        if (quantidade < qtdMenorVendedorVendas) {
-          qtdMenorVendedorVendas = quantidade;
-          vendedorMenorVendas = vendedor;
-        }
+    }
+    for (var vend in vendedoresGeral.keys) {
+      int quantidade = vendedoresGeral[vend]!;
+      if (quantidade < qtdMenorVendedorVendas) {
+        qtdMenorVendedorVendas = quantidade;
+        vendedorMenorVendas = vend;
       }
     }
   }
