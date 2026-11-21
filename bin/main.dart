@@ -8,6 +8,18 @@ void main() {
   bool executando = true;
 
   Relatorio? relatorio;
+  print(r'''
+|=========================================|
+____  _____   _             _                                                              
+|_   \|_   _| (_)           (_)                          
+  |   \ | |   __   _ .--.   __  _   __   .--.   _   __   
+  | |\ \| |  [  | [ `.-. | [  |[ \ [  ]/ .'`\ \[ \ [  ]  
+ _| |_\   |_  | |  | | | |  | | \ \/ / | \__. | > '  <   
+|_____|\____|[___][___||__][___] \__/   '.__.' [__]`\_] 
+|=========================================|
+''');
+  print("\tTerminal Intergrado - Loja Pet Ninivox - ");
+  print("\n");
   while (executando) {
     print("Escolha qual o tipo de arquivo para análise:"
         "\n 1) - Relatório CSV"
@@ -21,12 +33,14 @@ void main() {
         relatorio = RelatorioCsv('vendas_gatos.csv');
         relatorio.carregarDados();
         relatorio.printRelatorio();
+        relatorio.relatorioTxt('relatorio_csv.txt');
         print("\n");
         break;
       case '2':
-        relatorio = RelatorioExel('petshop.xlsx');
+        relatorio = RelatorioExel('registro_vendas_petshop.xlsx');
         relatorio.carregarDados();
         relatorio.printRelatorio();
+        relatorio.relatorioTxt('relatorio_exel.txt');
         print("\n");
         break;
       case '3':

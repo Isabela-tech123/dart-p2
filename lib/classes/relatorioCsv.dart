@@ -1,5 +1,6 @@
 import 'dart:io';
 import 'package:exel_dart/classes/relatorio.dart';
+import 'mesEnum.dart';
 
 class RelatorioCsv extends Relatorio {
   final String nomeArquivo;
@@ -99,5 +100,31 @@ class RelatorioCsv extends Relatorio {
     print('\n\t=== VENDAS POR ESTADO ===');
     print("\n");
     vendasPorEstado.forEach((estado, qtd) => print('\t$estado: $qtd vendidas'));
+  }
+
+  @override
+  String gerarStringRelatorio() {
+    StringBuffer buffer = StringBuffer();
+    buffer.writeln("\n\t========== RELATÓRIO GERAL DE CSV==========");
+    buffer.writeln(
+      "\n\tFaturamento total registrado: R\$ ${faturamentoTotal.toStringAsFixed(2).replaceAll('.', ',')}",
+    );
+    buffer.writeln(
+      "\tPreco médio registrado : R\$ ${precoMedio.toStringAsFixed(2).replaceAll('.', ',')} ",
+    );
+    buffer.writeln("\tTotal de animais vendidos: ${totalAnimais} animais");
+    buffer.writeln(
+      "\tPorcentagem de animais com pedigree: ${porcentagemPedigree.toStringAsFixed(1)}%",
+    );
+    buffer.writeln('\n\t===============================================\n');
+    buffer.writeln('\n\t=== VENDAS POR RAÇA ===');
+    buffer.writeln("\n");
+    vendasPorRaca
+        .forEach((raca, qtd) => buffer.writeln('\t$raca: $qtd vendidas'));
+    buffer.writeln('\n\t=== VENDAS POR ESTADO ===');
+    buffer.writeln("\n");
+    vendasPorEstado
+        .forEach((estado, qtd) => buffer.writeln('\t$estado: $qtd vendidas'));
+    return buffer.toString();
   }
 }
