@@ -1,6 +1,5 @@
 import 'dart:io';
 import 'package:exel_dart/classes/relatorio.dart';
-import 'mesEnum.dart';
 
 class RelatorioCsv extends Relatorio {
   final String nomeArquivo;
