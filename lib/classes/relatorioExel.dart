@@ -9,6 +9,7 @@ class RelatorioExel extends Relatorio {
 
   late String produtoMaisVendido;
   int novaQuantidadeVendida = 0;
+  int qtdMaiorVendedorVendas = 0;
   late String vendedorMaiorVendas;
   late String vendedorMenorVendas;
   int qtdMenorVendedorVendas = 999999;
@@ -66,11 +67,19 @@ class RelatorioExel extends Relatorio {
           (produtosGeral[produto] ?? 0) + quantidade_vendida;
       vendedoresGeral[vendedor] =
           (vendedoresGeral[vendedor] ?? 0) + quantidade_vendida;
-
-      if (quantidade_vendida > novaQuantidadeVendida) {
-        novaQuantidadeVendida = quantidade_vendida;
-        produtoMaisVendido = produto;
-        vendedorMaiorVendas = vendedor;
+    }
+    for (var prod in produtosGeral.keys) {
+      int quantidade = produtosGeral[prod]!;
+      if (quantidade > novaQuantidadeVendida) {
+        novaQuantidadeVendida = quantidade;
+        produtoMaisVendido = prod;
+      }
+    }
+    for (var vend in vendedoresGeral.keys) {
+      int quantidade = vendedoresGeral[vend]!;
+      if (quantidade > qtdMaiorVendedorVendas) {
+        qtdMaiorVendedorVendas = quantidade;
+        vendedorMaiorVendas = vend;
       }
     }
     for (var prod in produtosGeral.keys) {
